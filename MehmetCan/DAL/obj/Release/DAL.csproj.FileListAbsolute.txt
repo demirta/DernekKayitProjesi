@@ -1,0 +1,9 @@
+C:\Users\Emir\source\repos\Hospital\DAL\bin\Release\Hospital.mdf
+C:\Users\Emir\source\repos\Hospital\DAL\bin\Release\Hospital_log.ldf
+C:\Users\Emir\source\repos\Hospital\DAL\bin\Release\DAL.dll.config
+C:\Users\Emir\source\repos\Hospital\DAL\bin\Release\DAL.dll
+C:\Users\Emir\source\repos\Hospital\DAL\bin\Release\DAL.pdb
+C:\Users\Emir\source\repos\Hospital\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Hospital\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Hospital\DAL\obj\Release\DAL.dll
+C:\Users\Emir\source\repos\Hospital\DAL\obj\Release\DAL.pdb
